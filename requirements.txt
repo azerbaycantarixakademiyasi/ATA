@@ -1,0 +1,6 @@
+flask
+requests
+google-genai
+langchain-google-genai
+langchain-community
+gunicorn
